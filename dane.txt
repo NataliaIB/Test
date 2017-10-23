@@ -1,0 +1,40 @@
+https://hub.sealcode.org/
+
+
+moja grupa
+https://hub.sealcode.org/project/profile/45/
+
+
+info odnosnie zajec
+https://mikolajszumigalski.github.io/mainwarsztaty.html
+
+*na 23.10.2017 przyniesc plan strony internetowej na kartce
+
+
+edytor brackets
+
+obrazek:
+/Desktop/tworzenie aplikacji webowych/snip
+
+
+Stronka:
+
+<!doctype html>
+<html>
+<head>
+
+<style> 
+body {background-color: palevioletred;
+}
+img{ 
+border:30px solid black;
+}
+</style>
+</head>
+
+<body>
+tekst <b>jest</b>
+<img src="/Desktop/tworzenie aplikacji webowych/snip.png" style="width: 600px"></img>
+</body>
+
+</html>
